@@ -14,7 +14,7 @@
 
 ### 个人开发运营的Android App
 
-+ **[《段子乐》](https://appgallery1.huawei.com/#/app/C102572569)** 
-+ **[《傻瓜记账》](https://appgallery1.huawei.com/#/app/C100136823)**
++ **[《段子乐》](https://appgallery1.huawei.com/#/app/C100136823)** 
++ **[《傻瓜记账》](https://appgallery1.huawei.com/#/app/C102572569)**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MZCretin)](https://github.com/MZCretin)
