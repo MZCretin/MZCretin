@@ -11,6 +11,7 @@
 ### 最受欢迎的项目
 
 + 通用免费api：**[https://github.com/MZCretin/RollToolsApi](https://github.com/MZCretin/RollToolsApi)**
++ 段子乐APP开放API：**https://github.com/MZCretin/duanzile-open-api**
 
 ### 个人开发运营的Android App
 
