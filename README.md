@@ -1,8 +1,8 @@
 # Cretin，Be Strong ~
 
-| 公众号   | 掘金     |  CSDN   |   简书   |
-|---------|---------|--------- |--------- |
-| [Cretin的开发之路](https://github.com/MZCretin/MZCretin/blob/master/resource/cretin.jpg) | [点我](https://juejin.im/user/5838d57fac502e006c1708bc) | [点我](https://blog.csdn.net/u010998327) | [点我](https://www.jianshu.com/u/123f97613b86)  |
+| 公众号   | 掘金     |  CSDN   |   简书   | 个人博客 |
+|---------|---------|--------- |--------- |---------|
+| [Cretin的开发之路](https://github.com/MZCretin/MZCretin/blob/master/resource/cretin.jpg) | [点我](https://juejin.im/user/5838d57fac502e006c1708bc) | [点我](https://blog.csdn.net/u010998327) | [点我](https://www.jianshu.com/u/123f97613b86)  | [点我](http://blog.mxnzp.com/) |
 
 ### 个人主页
 
@@ -19,9 +19,28 @@
 + **[《傻瓜记账》](https://www.pgyer.com/C9ZX)**
 
 ### 个人开发运营的小程序
-+ Roll地盘
-+ 我有小家
-+ 阿萍TXT
-+ 记事萍
++ **Roll地盘**
+
+  <div background=red>
+    <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/roll_code.jpg" alt="我的页面" />
+  </div>
+
++ **我有小家**
+
+  <div background=red>
+    <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/home_code.jpg" alt="我的页面" />
+  </div>
+
++ **阿萍TXT**
+
+  <div background=red>
+    <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/txt_code.jpg" alt="我的页面" />
+  </div>
+
++ **记事萍**
+
+  <div background=red>
+    <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/jsp_code.jpg" alt="我的页面" />
+  </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MZCretin)](https://github.com/MZCretin)
