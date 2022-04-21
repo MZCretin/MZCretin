@@ -18,4 +18,10 @@
 + **[《段子乐》](https://www.pgyer.com/rmjK)** 
 + **[《傻瓜记账》](https://www.pgyer.com/C9ZX)**
 
+### 个人开发运营的小程序
++ Roll地盘
++ 我有小家
++ 阿萍TXT
++ 记事萍
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MZCretin)](https://github.com/MZCretin)
