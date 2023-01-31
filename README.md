@@ -24,6 +24,12 @@
   <div background=red>
     <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/roll_code.jpg" alt="我的页面" />
   </div>
+  
++ **宝宝每日记录**
+
+  <div background=red>
+    <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/baby_code.jpg" alt="我的页面" />
+  </div>
 
 + **我有小家**
 
