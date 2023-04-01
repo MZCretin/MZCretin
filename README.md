@@ -18,6 +18,8 @@
 + **[《段子乐》](https://www.pgyer.com/rmjK)** 
 + **[《傻瓜记账》](https://www.pgyer.com/C9ZX)**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MZCretin)](https://github.com/MZCretin)
+
 ### 个人开发运营的小程序
 + **Roll地盘**
 
@@ -49,4 +51,4 @@
     <img style="margin-right: 10px;margin-bottom: 10px; " width="20%" height="100%" src="./resource/jsp_code.jpg" alt="我的页面" />
   </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MZCretin)](https://github.com/MZCretin)
+
